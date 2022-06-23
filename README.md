@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProfeRogerio
-- 👀  Sou Professor do Colégio Iedo Néspolo
+- 👀  Sou Professor do Colégio Iedo Néspolo e Colégio Romario Martins
 - 🌱  Leciono a disciplina de Pensmento Computacional
 
 <!---
